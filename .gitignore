@@ -59,3 +59,14 @@ typings/
 
 # next.js build output
 .next
+
+# dependencies
+bower_components
+
+# compiled output
+/dist
+/.tmp
+
+# System Files
+.DS_Store
+Thumbs.db
